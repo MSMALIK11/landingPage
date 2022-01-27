@@ -1,0 +1,81 @@
+
+
+
+
+@media(max-width:992px){
+
+    .project .project-wraper .project-card
+    {
+        width: 50%;
+    background-color: #fff;
+    
+    
+    }
+    .blog-section
+{
+   
+    padding: 0;
+   
+}
+.team-section{
+    padding: 2rem;
+}
+.welcome .card-sec{
+    padding: 0;
+}
+
+}
+
+@media(max-width:569px){
+
+    .project .project-wraper .project-card
+    {
+    width: 90%;
+    margin: 1rem  auto;
+    background-color: #fff;
+    box-shadow: 0 0 1rem rgba(0,0,0,0.2);
+    border-radius: 1rem;
+    -webkit-border-radius:1rem;
+    -moz-border-radius: 1rem;
+    -ms-border-radius: 1rem;
+    -o-border-radius: 1rem;
+    -webkit-border-radius: 1rem;
+  
+}
+
+.blog-section
+{
+   
+    padding: 0;
+   
+}
+.hero-sec .details {
+    left: 0;
+    text-align: center;
+}
+.hero-sec .details h1{
+    font-size:4rem ;
+    line-height: 6rem;
+
+}
+.welcome .card-sec{
+    padding: 0;
+    
+}
+.project .project-wraper .project-card{
+    width: 100%;
+    margin: 2rem 0;
+}
+.project .project-wraper .project-card .project-info{
+   border: none;
+}
+
+.welcome img{
+    width: 100%;
+}
+.welcome .card-sec .card-box{
+    margin: 3rem 1rem;
+}
+
+    
+}
